@@ -1,0 +1,10 @@
+opencv-python
+numpy
+tensorflow
+pillow
+streamlit
+matplotlib
+scikit-learn
+pytesseract
+python-Levenshtein
+deep-translator
